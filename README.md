@@ -67,15 +67,13 @@ cd Finetune_T5-Model_for_Text_Summary
 ## Contributing
 
 Contributions to improve the project are welcome. Feel free to fork the repository, make changes, and submit a pull request.
+
 ---
 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for details.
----
-## Contributing
 
-Contributions are welcome! Please feel free to submit a pull request or open an issue if you have suggestions or improvements.
 ---
 
 ## License
@@ -86,6 +84,7 @@ This project is licensed under the [MIT License](LICENSE).
 If you encounter any issues or have suggestions for improvement, please open an issue in the Issues section of this repository.
 
 ---
+
 # Contact:
 The code has been tested on Windows system. It should work well on other distributions but has not yet been tested. In case of any issue with installation or otherwise, please contact me on [Linkedin](https://www.linkedin.com/in/praveen-kumar-anwla-49169266/)
 
